@@ -7,16 +7,6 @@
 
 ---
 
-## 💼 About Me
-
-- 🎯 Working as a **BI Developer & Data Analyst**  
-- 🔍 Exploring the world of **Data Engineering** and cloud-based pipelines  
-- 📊 Passionate about storytelling through **data visualization**  
-- 🚀 I like experimenting with new tools and technologies
-- 🎓 Background in Business Administration, Finance, and Informatics
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Scripting  
@@ -57,8 +47,7 @@
 ## 🧠 What I'm Learning
 
 - ⚙️ CI/CD and DevOps for data workflows  
-- 🛠️ Real-time streaming with Pub/Sub & Kafka
-- 
+- 🛠️ Real-time streaming with Pub/Sub & Kafka 
 
 ## 📬 Connect with Me
 
