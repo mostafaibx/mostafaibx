@@ -12,7 +12,7 @@
 - 🎯 Working as a **BI Developer & Data Analyst**  
 - 🔍 Exploring the world of **Data Engineering** and cloud-based pipelines  
 - 📊 Passionate about storytelling through **data visualization**  
-- 🚀 Always learning and experimenting with new tools and technologies  
+- 🚀 I like experimenting with new tools and technologies
 - 🎓 Background in Business Administration, Finance, and Informatics
 
 ---
@@ -57,44 +57,10 @@
 ## 🧠 What I'm Learning
 
 - ⚙️ CI/CD and DevOps for data workflows  
-- 🛠️ Real-time streaming with Pub/Sub & Kafka  
-- 🧱 Data contracts & versioning using tools like **Great Expectations**  
-- 📚 Writing a research paper on **AI’s impact on human creativity**
-
----
-
-## 🔥 Highlight Projects
-
-- 📈 **Modern Data Stack Pipeline**  
-  → Airflow + dbt + BigQuery for automated, production-ready ELT
-
-- 🧾 **Subscription Management App**  
-  → Built with Next.js + Prisma + Cloud Functions  
-  → Handles user subscriptions, invoice generation, and dashboarding
-
-- 📊 **BI Dashboards**  
-  → Created rich dashboards with Tableau, Power BI & Looker Studio for business reporting
-
-> Check out my [GitHub Repositories](https://github.com/mostafaibx?tab=repositories) for more 🚀
-
----
+- 🛠️ Real-time streaming with Pub/Sub & Kafka
+- 
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
-📧 Email: `yourname [at] email.com`
-
----
-
-## ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaibx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaibx&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<!-- Feel free to remove this note -->
-<sub>👀 P.S. This profile is a work in progress — always learning, always improving.</sub>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-m-ibrahim/)  
+📧 Email: `imostafa330@gmail.com`
